@@ -86,20 +86,12 @@ The Effect Ethos is a foundational component for building trustworthy autonomous
 This blog post only scratches the surface of the capabilities of the Effect Ethos. For more information on the
 theoretical foundation of DeepCausality and the Effect Ethos, please see the following resources:
 
-* *
-  *[The Effect Propagation Process](https://github.com/deepcausality-rs/papers/blob/main/effect_propagation_process/epp.pdf)
-  **
-* *
-  *[The Formalization of the Effect Propagation Process](https://github.com/deepcausality-rs/papers/blob/main/formalization_effect_propagation_process/epp_formalization.pdf)
-  **
-* *
-  *[The Metaphysics of the Effect Propagation Process](https://github.com/deepcausality-rs/papers/blob/main/metaphysics_effect_propagation_process/epp_metaphysics.pdf)
-  **
-* *
-  *[The Ontology of the Effect Propagation Process](https://github.com/deepcausality-rs/papers/blob/main/ontology_effect_propagation_process/epp_ontology.pdf)
-  **
+* **[The Effect Propagation Process](https://github.com/deepcausality-rs/deep_causality/blob/main/papers/effect_propagation_process/epp.pdf)**
+* **[The Formalization of the Effect Propagation Process](https://github.com/deepcausality-rs/deep_causality/blob/main/papers/formalization_effect_propagation_process/epp_formalization.pdf)**
+* **[The Metaphysics of the Effect Propagation Process](https://github.com/deepcausality-rs/deep_causality/blob/main/papers/metaphysics_effect_propagation_process/epp_metaphysics.pdf)**
+* **[The Ontology of the Effect Propagation Process](https://github.com/deepcausality-rs/deep_causality/blob/main/papers/ontology_effect_propagation_process/epp_ontology.pdf)**
 
-For all articles, sources, and citation, [please see the paper repository](https://github.com/deepcausality-rs/papers).
+For all articles, sources, and citation, [please see the paper folder](https://github.com/deepcausality-rs/deep_causality/tree/main/papers).
 
 ## Conclusion
 

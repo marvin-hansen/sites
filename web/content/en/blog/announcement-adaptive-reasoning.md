@@ -76,7 +76,7 @@ The informed reader may wonder how DeepCausality can possibly express so many di
 part of the generalization DeepCausality achieves is due to its foundation in a single, axiomatic, generalized
 definition of causality. The Effect Propagation Process (EPP) defines the foundation of causal reasoning in
 DeepCausality, as explained in
-the [EPP Paper](https://github.com/deepcausality-rs/papers/blob/main/effect_propagation_process/epp.pdf).
+the [EPP Paper](https://github.com/deepcausality-rs/deep_causality/blob/main/papers/effect_propagation_process/epp.pdf).
 
 Unlike existing methodologies of computational causality, DeepCausality does not assume the presence of a linear
 background spacetime. As a result, it can express externalities such as temporal, spatial, and data dependencies via an

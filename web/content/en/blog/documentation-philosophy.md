@@ -14,7 +14,7 @@ The DeepCausality project has published the ["Effect Propagation Process" (EPP)]
 Furthermore, a new [articles section](https://deepcausality.com/papers/) was added to the project website 
 to provide easy access to PDF versions of all articles written by the DeepCausality project. 
 
-Lastly, a [dedicated repository](https://github.com/deepcausality-rs/papers) for all articles published on the website has been created to host all source files (i.e. Markdown and Latex) that were used for an article. 
+Lastly, a [dedicated folder](https://github.com/deepcausality-rs/deep_causality/tree/main/papers) in the mono repository for all articles published on the website has been created to host all source files (i.e. Markdown and Latex) that were used for an article. 
 
 ## About
 
